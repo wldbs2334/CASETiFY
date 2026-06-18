@@ -60,6 +60,27 @@
             input:focus ~ span, input:not(:placeholder-shown) ~ span {
                 width: 100%;
             }
+
+            // 비밀번호 보기 토글 버튼: 입력란 오른쪽에 고정
+            .eye-btn {
+                position: absolute;
+                right: 10px;
+                bottom: 8px;
+                z-index: 6; // input(z-index:5)보다 위
+                line-height: 0;
+                cursor: pointer;
+
+                img {
+                    width: 22px;
+                    height: 22px;
+                    display: block;
+                }
+            }
+
+            // 비밀번호가 길어져도 눈 아이콘과 겹치지 않도록 여백 확보
+            #password {
+                padding-right: 36px;
+            }
         }
 
 
