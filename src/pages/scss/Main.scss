@@ -1,0 +1,15 @@
+.loader-logo img {
+  width: 180px;
+  /* 0.1초 간격으로 무한 반복, 부드럽게 연결 */
+  animation: jitter 0.15s ease-in-out;
+  animation-iteration-count: 2;
+}
+
+@keyframes jitter {
+  0% {
+    transform: rotate(-3deg);
+  }
+  100% {
+    transform: rotate(3deg);
+  }
+}
