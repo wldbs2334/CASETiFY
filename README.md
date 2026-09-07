@@ -1,19 +1,85 @@
-# React + Vite
+# CASETiFY UX/UI 리디자인
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> 기존 CASETiFY 웹사이트의 사용자 경험을 분석하고 개선 방향을 도출하여 제작한 UX/UI 리디자인 프로젝트입니다.
 
-Currently, two official plugins are available:
+## 📌 프로젝트 소개
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+CASETiFY의 기존 웹사이트를 분석하고
+사용자가 제품을 탐색하고 구매하는 과정에서 느낄 수 있는 불편함을 개선하기 위해 진행한 리디자인 프로젝트입니다.
 
-## React Compiler
+Double Diamond 프로세스를 기반으로 사용자와 서비스를 분석하고,
+문제점을 정의한 후 개선된 UX/UI를 설계했습니다.
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+Figma를 활용하여 화면을 설계하고
+디자인 결과물을 실제 웹 화면으로 구현했습니다.
 
-Note: This will impact Vite dev & build performances.
+## 🎯 프로젝트 목표
 
-## Expanding the ESLint configuration
+* 기존 웹사이트의 UX 문제점 분석
+* 사용자 탐색 과정 개선
+* 콘텐츠와 상품 정보의 가독성 향상
+* 일관성 있는 UI 구성
+* 직관적인 사용자 경험 제공
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# casetify-dev" 
+## 🛠 Tech Stack
+
+* Figma
+* HTML5
+* CSS3
+* JavaScript
+
+## 🔎 UX/UI Process
+
+### 01. Discover
+
+기존 CASETiFY 웹사이트와 사용자 경험을 분석하여
+불편 요소와 개선이 필요한 부분을 파악했습니다.
+
+### 02. Define
+
+분석 결과를 바탕으로 핵심 문제를 정의하고
+사용자의 요구사항을 정리했습니다.
+
+### 03. Develop
+
+HMW(How Might We) 질문을 통해
+문제 해결 방향과 개선 아이디어를 도출했습니다.
+
+### 04. Deliver
+
+도출된 아이디어를 바탕으로 UI를 설계하고
+최종 디자인을 실제 웹 화면으로 구현했습니다.
+
+## ✨ 주요 구현
+
+* UX/UI 리디자인
+* 상품 탐색 UI 개선
+* 콘텐츠 구조 개선
+* 반응형 레이아웃
+* 인터랙션 구현
+* 디자인 시스템 적용
+
+## 📷 Preview
+
+<!-- 프로젝트 스크린샷을 추가해주세요 -->
+
+## 🔗 Live Demo
+
+<!-- 배포 URL 입력 -->
+
+## 💻 GitHub
+
+<!-- GitHub Repository URL 입력 -->
+
+## 📝 제작 기간
+
+2026
+
+## 👩🏻‍💻 담당
+
+* UX/UI 분석 및 리디자인
+* Figma 화면 설계
+* 웹 퍼블리싱
+* HTML / CSS 구현
+* 반응형 레이아웃 구현
+* 인터랙션 구현
